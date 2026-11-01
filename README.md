@@ -2,6 +2,8 @@
 OOPS Concept - Encapsulation program
 About the Project
 
+
+Output: Is attached as "Output.png"
 This project demonstrates Encapsulation, one of the four fundamental principles of Object-Oriented Programming (OOP) in Java.
 
 Concepts Covered
